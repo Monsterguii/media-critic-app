@@ -1,0 +1,34 @@
+﻿# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+build/
+dist/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente
+.env
+*.env
+
+# Outros
+*.log
+*.tmp
+*.cache
+
+# Configurações locais
+appsettings.Development.json
