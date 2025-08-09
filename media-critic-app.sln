@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaCritic.Api", "MediaCritic.Api\MediaCritic.Api.csproj", "{0BBEA1EB-EA55-5F0A-C44E-378B8F560874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBEA1EB-EA55-5F0A-C44E-378B8F560874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBEA1EB-EA55-5F0A-C44E-378B8F560874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBEA1EB-EA55-5F0A-C44E-378B8F560874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBEA1EB-EA55-5F0A-C44E-378B8F560874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26BF3C31-5879-4678-95B5-5658E5E9AA01}
+	EndGlobalSection
+EndGlobal
